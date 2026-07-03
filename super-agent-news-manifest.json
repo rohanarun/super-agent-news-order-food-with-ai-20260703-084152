@@ -1,0 +1,62 @@
+{
+  "citations": [
+    "[cnbc.com](https://www.cnbc.com/)",
+    "[techcrunch.com](https://techcrunch.com/)",
+    "[consumeraffairs.com](https://www.consumeraffairs.com/)",
+    "[mybroadband.co.za](https://mybroadband.co.za/)",
+    "[bain.com](https://www.bain.com/)",
+    "[free.ai](https://free.ai/code/css/)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=max_width_1120_two_lines; aida_check=pass; bento_density=grid-auto-flow:dense; label_sweep=competitors_all_present; button_contrast=black_on_paper_pass",
+  "generated_at": "2026-07-03T08:41:59.358541+00:00",
+  "headline": "Order food with AI \u2014 without juggling delivery apps",
+  "site_brief": {
+    "audience": "people who want an AI assistant to order meals, groceries, and delivery without babysitting apps",
+    "canonical_url": "https://app.getsupers.com/use-cases/order-food-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Order food with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant order food delivery",
+      "personal AI agent order food",
+      "AI agent groceries delivery",
+      "computer use AI agent ordering food"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "order-food-with-ai",
+    "title": "Order food with AI",
+    "use_case_intent": "show how Super can coordinate food ordering across delivery apps, preferences, addresses, payment confirmation, and repeat orders"
+  },
+  "summary": "This use\u2011case page shows how Super acts as a personal AI agent that can order meals and groceries across delivery apps using real computer use, with confirmation steps and a reusable computer-use cache for faster repeat orders."
+}
